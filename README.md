@@ -69,8 +69,8 @@ Display original color image, histogram, enhanced image, and enhanced histogram 
 
 
 ## Developed By:
-**Name:** Rahul M R  
-**Register No:** 2305003005
+**Name:** Gowtham S  
+**Register No:** 2305002008
 
 ## Program:
 ```python
